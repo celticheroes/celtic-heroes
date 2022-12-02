@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+celtic-heroes.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.celtic-heroes.com	TRUE	/	FALSE	1999999999	celtic_heroes_u	1
+.celtic-heroes.com	TRUE	/	FALSE	1999999999	celtic_heroes_sid	468df034c37c0dc3dd37e4e9be5513d6
+
